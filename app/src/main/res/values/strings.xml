@@ -3,4 +3,9 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forecast">预报</string>
+    <string name="airquality">空气质量</string>
+    <string name="aqitext">AQI 指数</string>
+    <string name="pm2_5">PM2.5 指数</string>
+    <string name="lifesuggestion">生活建议</string>
 </resources>
