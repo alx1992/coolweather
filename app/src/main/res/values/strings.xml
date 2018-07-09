@@ -8,4 +8,11 @@
     <string name="aqitext">AQI 指数</string>
     <string name="pm2_5">PM2.5 指数</string>
     <string name="lifesuggestion">生活建议</string>
+    <string name="citymanage">城市管理</string>
+    <string name="about">关于</string>
+    <string name="settting">设置</string>
+    <string name="update">检查更新</string>
+    <string name="theme">主题皮肤</string>
+    <string name="finish">推出</string>
+    <string name="share">分享天气</string>
 </resources>

@@ -4,6 +4,8 @@
     android:layout_height="match_parent"
     >
 
+   <!--<include layout="@layout/layout_toolbar"/>-->
+
    <fragment
        android:id="@+id/choose_area_fragment"
        android:name="com.coolweather.android.fragment.ChooseAreaFragment"
